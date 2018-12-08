@@ -1,6 +1,6 @@
 # dlnd-face-generation
 Introduction
-  Used Depp Convolutional generative adversarial networks to generate new images of faces.
+  Used Deep Convolutional generative adversarial networks to generate new images of faces.
 
 Description
   In this project, I've defined and trained a DCGAN on a dataset of faces. Goal is to get a generator network to generate new images of faces that look as realistic as possible!
